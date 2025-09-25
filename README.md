@@ -24,7 +24,7 @@ Use of float and clear for layout design (e.g., images and text side by side, ga
 
 Deployment:
 
-The project is deployed on GitHub Pages at: [Insert your GitHub Pages URL here]
+The project is deployed on GitHub Pages at: https://abdul-rafay-4002.github.io/portfolio/
 
 
 Notes:
